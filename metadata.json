@@ -1,0 +1,6 @@
+{
+  "name": "Zenith Launcher",
+  "description": "A calm, minimalist digital-wellbeing Android launcher inspired by Yin Yang Launcher, featuring Mindful Pause, Focus Mode, My Space, and Mind Space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
